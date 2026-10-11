@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello ProPTIT");
+        Student student = new Student("SV001", "Nguyen Van A");
+        System.out.println(student.getInfo());
     }
 }
