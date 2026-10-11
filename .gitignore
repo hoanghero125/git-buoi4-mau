@@ -1,0 +1,18 @@
+# File biên dịch
+*.class
+*.jar
+out/
+target/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Bí mật và cấu hình riêng
+.env
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
